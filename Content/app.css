@@ -1,0 +1,18 @@
+body {
+    background-color: lightgrey;
+}
+
+#canvas {
+    border: 1px black dotted;
+    background-color: white;
+    border-radius: 1%;
+}
+@font-face {
+    font-family: 'boston';
+    src: url('/Assets/fonts/boston.woff') format('woff'),
+         url('/Assets/fonts/boston.ttf') format('truetype');
+        
+    font-weight: normal;
+    font-style: normal;
+
+}
